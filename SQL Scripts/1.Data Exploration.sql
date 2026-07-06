@@ -1,7 +1,7 @@
 create database zepto;
-
-
 use zepto;
+
+--After importing your CSV into SQL Server, the typical workflow for a data analysis project is:
 
 SELECT *
 FROM INFORMATION_SCHEMA.COLUMNS
